@@ -1,0 +1,10 @@
+list=[1,2,3,4,5,6,7,8]
+list[0]=9
+print(list)
+l1=[12,13,14]
+l1.append(15)
+print(l1)
+l1.insert(1,99)
+print(l1)
+l1.extend([20,30,40])
+print(l1)

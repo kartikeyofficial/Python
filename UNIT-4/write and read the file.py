@@ -1,0 +1,6 @@
+file= open("karthik.txt","w+")
+file.write("Hello world")
+file.seek(0)
+data = file.read()
+print (data)
+file.close()

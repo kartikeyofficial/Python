@@ -1,0 +1,8 @@
+x= int(input("Enter the First Number="))
+y= int(input("Enter The Second Number="))
+print(x==y)
+print(x<=y)
+print(x>=y)
+print(x<y)
+print(x>y)
+print(x!=y)
